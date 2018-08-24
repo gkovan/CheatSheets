@@ -1,0 +1,44 @@
+== Purpose of Document
+This document contains educational resources to enable us to learn more about the IBM Cloud Garage Method principles and practices so that we can continuously improve and get better as a team. +
+
+The IBM Cloud Garage Method is a combination of industry practices, including IBM Design Thinking, Lean Startup, agile development, and continuous delivery, to build innovative solutions. +
+
+=== IBM Cloud Garage Method 
+
+Website: https://www.ibm.com/cloud/garage/ +
+Practices: https://www.ibm.com/cloud/garage/category/practices +
+Architecture template: https://www.ibm.com/cloud/garage/files/DiagramTemplate.pptx
+
+== Agile Product Ownership
+
+This is an excellent video that summarizes effective product ownership and how it helps the overall team build the right thing, build it right and build it fast. Currently in the GAPS project, we don't have formal Product Owner roles yet, however I recommend everyone to watch this video as it will help you understand the importance of this role and how it can be applied to the GAPS project. +
+https://www.youtube.com/watch?v=502ILHjX9EE&t=54s
+
+== Pair Programming
+Pair programming practice: +
+https://www.ibm.com/cloud/garage/content/code/practice_pair_programming/ +
+
+Video describing the key benefits of pair programming and some effective techniques. +
+https://www.youtube.com/watch?v=usQgAy8YDVA
+
+== Test Driven Development (TDD)
+TDD practice +
+https://www.ibm.com/cloud/garage/content/code/practice_test_driven_development/ +
+
+Excellent video on TDD by Bob Martin on how to do TDD effectively. +
+https://vimeo.com/97516288 +
+
+== Test frameworks used for TDD
+. List of frameworks for Java based apps +
+* JUnit 4: https://junit.org/junit4/ +
+* Mockito: http://site.mockito.org/ +
+* WireMock: http://wiremock.org/ +
+* Spring testing: https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#testing  +
+** Spring MockMvc for server side tests: https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#spring-mvc-test-server +
+* Rest assured:  http://rest-assured.io/
+
+== Other Key Resources
+* 12 principles of the Agile Manifesto:  http://agilemanifesto.org/principles.html
+* Extreme Programming:  https://en.wikipedia.org/wiki/Extreme_programming
+* 12 factor apps:  https://12factor.net/
+
