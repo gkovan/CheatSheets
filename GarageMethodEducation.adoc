@@ -45,3 +45,9 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 * Extreme Programming:  https://en.wikipedia.org/wiki/Extreme_programming
 * 12 factor apps:  https://12factor.net/
 
+== HTTP 
+*  HTTP Status Codes - https://medium.com/@gkovan/http-status-code-resources-for-building-rest-apis-c01df798b446
+*  HTTP Protocol Part 1 - https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
+*  HTTP Protocol Part 2 - https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
+*  HTTP Caching For Performance Optimization - https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
+
