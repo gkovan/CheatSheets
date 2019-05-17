@@ -55,5 +55,10 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 * What is a REST API - https://medium.com/@basterrika/lets-understand-what-an-api-is-7072eb091e76
 * Richardson Maturirity Model - https://martinfowler.com/articles/richardsonMaturityModel.html
 
+== Networking
+* Network OSI Model - https://www.youtube.com/watch?v=vv4y_uOneC0 
+* AWS VPC Fundamentals - https://www.youtube.com/watch?v=jZAvKgqlrjY
+
 == Miscellaneous
 * What happens when you enter a url in a browser: https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+
