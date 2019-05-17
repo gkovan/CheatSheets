@@ -59,6 +59,11 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 * Network OSI Model - https://www.youtube.com/watch?v=vv4y_uOneC0 
 * AWS VPC Fundamentals - https://www.youtube.com/watch?v=jZAvKgqlrjY
 
+== OAUTH 2.0
+* A Guide to OAUTH 2.0 Grant Types - https://alexbilbie.com/guide-to-oauth-2-grants/
+* Which OAUTH 2.0 Grant Should I Use - https://auth0.com/docs/api-auth/which-oauth-flow-to-use
+* OAUTH 2.0 Explained (A short simple video) - https://www.youtube.com/watch?v=BNEoKexlmA4
+
 == Miscellaneous
 * What happens when you enter a url in a browser: https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
 
