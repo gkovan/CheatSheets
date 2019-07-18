@@ -66,6 +66,7 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 
 == Miscellaneous
 * What happens when you enter a url in a browser: https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+* Nice tool to create pojo's from json schema or json sample: http://www.jsonschema2pojo.org/
 
 == Exception handling
 * Best practices blog:  https://stackify.com/best-practices-exceptions-java/
