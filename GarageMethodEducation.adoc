@@ -70,6 +70,7 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 
 == Exception handling
 * Best practices blog:  https://stackify.com/best-practices-exceptions-java/
+* Java Custom Exception: https://stackify.com/java-custom-exceptions/
 
 == Application Logging
 * Logging tips :  https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
