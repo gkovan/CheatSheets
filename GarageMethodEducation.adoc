@@ -74,4 +74,5 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 == Application Logging
 * Logging tips :  https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 * Logging pitfalls:  https://stackify.com/common-mistakes-handling-java-exception/
+* Logging best practices: https://stackify.com/best-practices-exceptions-java/
 
