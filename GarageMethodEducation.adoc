@@ -77,3 +77,8 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 * Logging pitfalls:  https://stackify.com/common-mistakes-handling-java-exception/
 * Logging best practices: https://stackify.com/best-practices-exceptions-java/
 
+== Javascript resources
+* Javascript 101 : https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0
+* Javascript classes:  https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677
+* Javascript Node interview template:  https://github.com/gkovan/node-interview-template
+
