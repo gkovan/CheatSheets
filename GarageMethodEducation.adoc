@@ -83,3 +83,6 @@ https://www.youtube.com/watch?v=s9vt6UJiHg4 +
 * Javascript Node interview template:  https://github.com/gkovan/node-interview-template
 * Javascript school: https://www.w3schools.com/js/default.asp
 
+== Miscellaneous
+* Managing SSH Keys: https://medium.com/@trionkidnapper/ssh-keys-with-multiple-github-accounts-c67db56f191e
+* Managing multiple versions of Java: https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions#:~:text=The%20cleanest%20way%20to%20manage,the%20installed%20versions%20of%20java
