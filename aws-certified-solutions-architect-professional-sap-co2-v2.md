@@ -914,6 +914,11 @@ A secure, online service that automates and accelerates moving data between on p
 By default, the data in a Redis node on ElastiCache resides only in memory and is not persistent. If a node is rebooted, or if the underlying physical server experiences a hardware failure, the data in the cache is lost.
 If you require data durability, you can enable the Redis append-only file feature (AOF). When this feature is enabled, the node writes all of the commands that change cache data to an append-only file. When a node is rebooted and the cache engine starts, the AOF is "replayed"; the result is a warm Redis cache with all of the data intact.
 
+ElastiCache gives you the ability to set up, manage, and scale a distributed in-memory data store or cache environment in the cloud. An ElastiCache cluster to cache the RDS database responses can improve repetitive read response times. 
+
+* ElastiCache for Redis natively supports automatic Multi-AZ failover.
+* ElastiCache for Memcached does not natively support automatic Multi-AZ failover. ElastiCache for Redis does meet this requirement.
+
 ## Disaster recovery or fault tolerance
 * Multi-AZ with Automatic Failover is the best option when data retention, minimal downtime, and application performance are a priority.
     Data loss potential - Low. Multi-AZ provides fault tolerance for every scenario, including hardware-related issues.
