@@ -917,7 +917,7 @@ If you require data durability, you can enable the Redis append-only file featur
 ElastiCache gives you the ability to set up, manage, and scale a distributed in-memory data store or cache environment in the cloud. An ElastiCache cluster to cache the RDS database responses can improve repetitive read response times. 
 
 * ElastiCache for Redis natively supports automatic Multi-AZ failover.
-* ElastiCache for Memcached does not natively support automatic Multi-AZ failover. ElastiCache for Redis does meet this requirement.
+* ElastiCache for Memcached does not natively support automatic Multi-AZ failover. 
 
 ## Disaster recovery or fault tolerance
 * Multi-AZ with Automatic Failover is the best option when data retention, minimal downtime, and application performance are a priority.
