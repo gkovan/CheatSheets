@@ -1326,6 +1326,21 @@ A managed message broker service for Apache ActiveMQ that makes it easy to set u
 ## AWS SQS
 Maximum message size is 262,144 bytes (256 KB)
 
+Two types of queues:
+* Standard
+  * Default queue type.
+  * Nearly unlimited transactions per second.
+  * Guarantee that a message is delivered at least once.
+  * Occasionally more than one copy of a message might be delivered out of order.
+  * Provides best-effort ordering which ensures that messages are generally delivered in the same order as they are sent.
+
+* FIFO (First In First Out)
+  * Delivers exactly-once processing.
+  * The order in which messages are sent and received is strictly preserved and a message is delivered once and remains available until a consumer processes and deletes it.
+  * Duplicates are not introduced into the queue.
+  * FIFO queues also support message groups that allow multiple ordered message groups within a single queue.
+  * Limited to 300 transactions per second (TPS) but have all the capabilities of standard queues.   
+
 ## AWS-Generated Cost Allocation Tags
 The AWS generated tags createdBy is a tag that AWS defines and applies to supported AWS resources for cost allocation purposes. To use the AWS generated tags, a master account owner must activate it in the Billing and Cost Management console. When a master account owner activates the tag, the tag is also activated for all member accounts.
 
